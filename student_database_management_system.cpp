@@ -4,7 +4,6 @@
 #include <chrono>
 #include <regex>
 using namespace std;
-//name TRANNUM UID:CO23367
 // Stct to store subject scheme details
 struct Scheme {
     char subjectCode[20];
